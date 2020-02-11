@@ -1,10 +1,10 @@
 ## Welcome to my page
 
-   Hello, my name is Ahmed, I am a Saudi from Riyadh, I am a student in the fourth level in College of Computer and Information Sciences at Imam Mohammed bin Saud Islamic University, I got a course in web design and development.
+   Hello, My name is Ahmed I'm a Saudi student in city of Riyadh. Enthusiastic about my major, which is computer Sciences. Currently I'm in my fourth level at Imam Mohammed bin Saud Islamic University and looking forward to finish my degree. I'm interested in all new developments and technology in my field.
 
-### Skills
+### Additional courses
 
-I got a course in web design and development.
+-web design and development.
 
 ### Programming languages
 
@@ -14,4 +14,4 @@ Css,
 Html.
 
 ### Contact
-ahmhalotaibi@sm.imamu.edu.sa
+<a href="mailto:kahmhalotaibi@sm.imamu.edu.sa">ahmhalotaibi@sm.imamu.edu.sa</a>
