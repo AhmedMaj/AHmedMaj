@@ -10,10 +10,10 @@ I got a course in web design and development
 
 ### Programming languages
 
-Java
-JavaScript
-Css
-Html
+Java,
+JavaScript,
+Css,
+Html,
 
 ### Contact
 [ahmhalotaibi@sm.imamu.edu.sa](ahmhalotaibi@sm.imamu.edu.sa)
