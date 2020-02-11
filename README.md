@@ -14,4 +14,4 @@ Css,
 Html.
 
 ### Contact
-[ahmhalotaibi@sm.imamu.edu.sa]
+ahmhalotaibi@sm.imamu.edu.sa
